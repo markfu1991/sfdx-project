@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 First Line. My name is Mark
 This is line 2
 Ben added this line 3
 Ben added line 4
+=======
+First Line...
+>>>>>>> parent of 42a3b70... added line 2
